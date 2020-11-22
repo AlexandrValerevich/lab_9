@@ -1,4 +1,4 @@
-﻿/*Задание 9 вариант 6  */
+﻿
 using System;
 using System.Collections.Generic;
 using System.Linq;
